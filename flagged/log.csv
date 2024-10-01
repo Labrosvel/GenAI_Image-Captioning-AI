@@ -1,0 +1,2 @@
+inp,output,flag,username,timestamp
+flagged/inp/0168598aef903d2fa612/Untitled2.jpeg,"{""label"": ""cowboy boot"", ""confidences"": [{""label"": ""cowboy boot"", ""confidence"": 0.05065431445837021}, {""label"": ""cradle"", ""confidence"": 0.042263105511665344}, {""label"": ""totem pole"", ""confidence"": 0.040970150381326675}]}",,,2024-10-01 21:01:33.856916
